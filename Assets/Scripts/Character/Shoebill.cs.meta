@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 682143556ac7b3d4ab4f40af4e75dce9
+timeCreated: 1515581465
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - chaseObject: {instanceID: 0}
+  - ragdoll: {instanceID: 0}
+  - toolF: {instanceID: 0}
+  - toolB: {instanceID: 0}
+  - SelectedWeapon: {instanceID: 0}
+  - shotPoint: {instanceID: 0}
+  - hitEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

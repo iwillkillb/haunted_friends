@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooting Shoebill", "Assembly-CSharp-firstpass.csproj", "{F273332C-8302-F44D-2CEB-0DA5B9AFECEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooting Shoebill", "Assembly-CSharp.csproj", "{11A14F13-87AF-221A-BCA6-7DE008E54AAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shooting Shoebill", "Assembly-CSharp-Editor.csproj", "{05136AC5-0B51-400C-3FE4-CE6C5AE0F436}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F273332C-8302-F44D-2CEB-0DA5B9AFECEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F273332C-8302-F44D-2CEB-0DA5B9AFECEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F273332C-8302-F44D-2CEB-0DA5B9AFECEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F273332C-8302-F44D-2CEB-0DA5B9AFECEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A14F13-87AF-221A-BCA6-7DE008E54AAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A14F13-87AF-221A-BCA6-7DE008E54AAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A14F13-87AF-221A-BCA6-7DE008E54AAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A14F13-87AF-221A-BCA6-7DE008E54AAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05136AC5-0B51-400C-3FE4-CE6C5AE0F436}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05136AC5-0B51-400C-3FE4-CE6C5AE0F436}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05136AC5-0B51-400C-3FE4-CE6C5AE0F436}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05136AC5-0B51-400C-3FE4-CE6C5AE0F436}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

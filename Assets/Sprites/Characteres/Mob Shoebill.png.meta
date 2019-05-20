@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: e14dc73a77548ad4b98f02127c14dea5
+timeCreated: 1531309790
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: MobShoebill_Head
+    21300002: Shoebill_Head_Smile
+    21300004: Shoebill_Head_Cry
+    21300006: Shoebill_Head_Angry
+    21300008: Shoebill_Head_Shock
+    21300010: MobShoebill_WingF
+    21300012: MobShoebill_WingB
+    21300014: Shoebill_Head_Sad
+    21300016: Shoebill_Head_Sleep
+    21300018: Shoebill_Head_Shy
+    21300020: Shoebill_Head_Evil
+    21300022: Shoebill_Head_Down
+    21300024: Shoebill_Head_Wild
+    21300026: MobShoebill_WingF1
+    21300028: MobShoebill_Chest
+    21300030: MobShoebill_ArmFU
+    21300032: MobShoebill_ArmBU
+    21300034: MobShoebill_HandF
+    21300036: Shoebill_HandF_Fist
+    21300038: Shoebill_HandF_Grap
+    21300040: Shoebill_HandF_Good
+    21300042: MobShoebill_Pelvis
+    21300044: MobShoebill_LegFU
+    21300046: MobShoebill_LegBU
+    21300048: MobShoebill_LegFL
+    21300050: MobShoebill_LegBL
+    21300052: MobShoebill_Bill
+    21300054: MobShoebill_WingB1
+    21300056: MobShoebill_ArmFL
+    21300058: MobShoebill_ArmBL
+    21300060: MobShoebill_HandB
+    21300062: Shoebill_HandB_Fist
+    21300064: Shoebill_HandB_Look
+    21300066: Shoebill_HandB_Victory
+    21300068: MobShoebill_Tail
+    21300070: ShoebillNaked_Chest
+    21300072: ShoebillNaked_ArmFU
+    21300074: ShoebillNaked_ArmBU
+    21300076: ShoebillNaked_LegFU
+    21300078: ShoebillNaked_LegBU
+    21300080: ShoebillNaked_LegFL
+    21300082: ShoebillNaked_LegBL
+    21300084: MobShoebill_FootF
+    21300086: MobShoebill_FootF1
+    21300088: MobShoebill_FootB
+    21300090: MobShoebill_FootB1
+    21300092: ShoebillNaked_Pelvis
+    21300094: ShoebillNaked_ArmFL
+    21300096: ShoebillNaked_ArmBL
+    21300098: ShoebillTiseless_ArmFU
+    21300100: ShoebillTiseless_ArmBU
+    21300102: ShoebillTiseless_LegFU
+    21300104: ShoebillTiseless_LegBU
+    21300106: MobShoebill_WingF3
+    21300108: MobShoebill_WingB3
+    21300110: MobShoebill_WingF2
+    21300112: MobShoebill_WingB2
+    21300114: LuckyBeast_Body
+    21300116: LuckyBeast_Body1
+    21300118: LuckyBeast_FootL
+    21300120: LuckyBeast_FootR
+    21300122: LuckyBeast_Ear
+    21300124: LuckyBeast_Ear1
+    21300126: LuckyBeast_Tail
+    21300128: Shoebill_Spear
+    21300130: Shoebill_Head_Talk
+    21300132: MobShoebill_Tie
+    21300134: Shoebill_Head_Look
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MobShoebill_Head
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 430
+        width: 70
+        height: 81
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_WingF
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 423
+        width: 45
+        height: 88
+      alignment: 9
+      pivot: {x: 0.78, y: 0.91}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_WingB
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 423
+        width: 23
+        height: 88
+      alignment: 9
+      pivot: {x: 0.3, y: 0.91}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_WingF1
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 343
+        width: 77
+        height: 80
+      alignment: 9
+      pivot: {x: 0.64, y: 0.54}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_Chest
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 259
+        width: 50
+        height: 87
+      alignment: 9
+      pivot: {x: 0.5, y: 0.2}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_ArmFU
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 297
+        width: 22
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_ArmBU
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 297
+        width: 22
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_HandF
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 292
+        width: 35
+        height: 55
+      alignment: 9
+      pivot: {x: 0.45, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_Pelvis
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 315
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_LegFU
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 274
+        width: 36
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_LegBU
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 274
+        width: 36
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_LegFL
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 274
+        width: 17
+        height: 71
+      alignment: 9
+      pivot: {x: 0.52, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_LegBL
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 274
+        width: 17
+        height: 71
+      alignment: 9
+      pivot: {x: 0.52, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_Bill
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 405
+        width: 43
+        height: 83
+      alignment: 9
+      pivot: {x: 0.48, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_WingB1
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 260
+        width: 108
+        height: 83
+      alignment: 9
+      pivot: {x: 0.05, y: 0.56}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_ArmFL
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 220
+        width: 41
+        height: 68
+      alignment: 9
+      pivot: {x: 0.65, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_ArmBL
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 220
+        width: 26
+        height: 42
+      alignment: 9
+      pivot: {x: 0.63, y: 0.82}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_HandB
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 292
+        width: 35
+        height: 55
+      alignment: 9
+      pivot: {x: 0.43, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_Tail
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 226
+        width: 45
+        height: 83
+      alignment: 9
+      pivot: {x: 0.53, y: 0.88}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_FootF
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 236
+        width: 28
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_FootF1
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 236
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_FootB
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 236
+        width: 28
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_FootB1
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 236
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_WingF3
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 150
+        width: 78
+        height: 77
+      alignment: 9
+      pivot: {x: 0.95, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_WingB3
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 168
+        width: 130
+        height: 60
+      alignment: 9
+      pivot: {x: 0.09, y: 0.91}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_WingF2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 142
+        height: 128
+      alignment: 9
+      pivot: {x: 0.97, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_WingB2
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 66
+        width: 111
+        height: 128
+      alignment: 9
+      pivot: {x: 0.033, y: 0.33}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: MobShoebill_Tie
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 20
+        height: 53
+      alignment: 9
+      pivot: {x: 0.23, y: 0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

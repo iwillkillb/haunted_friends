@@ -1,0 +1,427 @@
+fileFormatVersion: 2
+guid: b818bacac34dd6c4ca36e014e46e5247
+timeCreated: 1514529695
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Southern Tamandua_Head_Normal
+    21300002: Southern Tamandua_Head_Angry
+    21300004: Southern Tamandua_Head_Smile
+    21300006: Southern Tamandua_Head_Wild
+    21300008: Southern Tamandua_Head_Fear
+    21300010: Southern Tamandua_Head_Shy
+    21300012: Southern Tamandua_Head_Cry
+    21300014: Southern Tamandua_Chest
+    21300016: Southern Tamandua_Pelvis
+    21300018: Southern Tamandua_LegFU
+    21300020: Southern Tamandua_LegFL
+    21300022: Southern Tamandua_LegBU
+    21300024: Southern Tamandua_LegBL
+    21300026: Southern Tamandua_ArmFU
+    21300028: Southern Tamandua_ArmBU
+    21300030: Southern Tamandua_ArmFL
+    21300032: Southern Tamandua_ArmBL
+    21300034: Southern Tamandua_HandF_Spread
+    21300036: Southern Tamandua_HandB_Spread
+    21300038: Southern Tamandua_Tail
+    21300040: Southern Tamandua_HandF_Fist
+    21300042: Southern Tamandua_HandB_Fist
+    21300044: Southern Tamandua_FootF
+    21300046: Southern Tamandua_FootF1
+    21300048: Southern Tamandua_FootB
+    21300050: Southern Tamandua_FootB1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Southern Tamandua_Head_Normal
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 184
+        width: 69
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_Head_Angry
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 184
+        width: 69
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_Head_Smile
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 184
+        width: 69
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_Head_Wild
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 184
+        width: 69
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_Head_Fear
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 110
+        width: 69
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_Head_Shy
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 110
+        width: 69
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_Head_Cry
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 110
+        width: 69
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_Chest
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 58
+        width: 50
+        height: 47
+      alignment: 9
+      pivot: {x: 0.56, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_Pelvis
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 45
+        width: 70
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_LegFU
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 45
+        width: 26
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_LegFL
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 42
+        width: 14
+        height: 59
+      alignment: 9
+      pivot: {x: 0.6, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_LegBU
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 45
+        width: 26
+        height: 61
+      alignment: 9
+      pivot: {x: 0.5, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_LegBL
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 42
+        width: 14
+        height: 59
+      alignment: 9
+      pivot: {x: 0.6, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_ArmFU
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 19
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_ArmBU
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1
+        width: 19
+        height: 42
+      alignment: 9
+      pivot: {x: 0.5, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_ArmFL
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1
+        width: 19
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_ArmBL
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1
+        width: 19
+        height: 35
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_HandF_Spread
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1
+        width: 19
+        height: 28
+      alignment: 9
+      pivot: {x: 0.44, y: 0.84}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_HandB_Spread
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1
+        width: 19
+        height: 28
+      alignment: 9
+      pivot: {x: 0.44, y: 0.84}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_Tail
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 26
+        width: 82
+        height: 41
+      alignment: 9
+      pivot: {x: 0.9, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_HandF_Fist
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 5
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.47, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_HandB_Fist
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 5
+        width: 16
+        height: 18
+      alignment: 9
+      pivot: {x: 0.47, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_FootF
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1
+        width: 21
+        height: 23
+      alignment: 9
+      pivot: {x: 0.45, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_FootF1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 1
+        width: 30
+        height: 23
+      alignment: 9
+      pivot: {x: 0.3, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_FootB
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 1
+        width: 21
+        height: 23
+      alignment: 9
+      pivot: {x: 0.45, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Southern Tamandua_FootB1
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 30
+        height: 23
+      alignment: 9
+      pivot: {x: 0.3, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

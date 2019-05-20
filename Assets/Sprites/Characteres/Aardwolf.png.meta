@@ -1,0 +1,512 @@
+fileFormatVersion: 2
+guid: 623063f717b84b841b7b26e177a1db56
+timeCreated: 1520152422
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Aardwolf_Head_Normal
+    21300002: Aardwolf_Head_What
+    21300004: Aardwolf_Head_Fear
+    21300006: Aardwolf_BackHair
+    21300008: Aardwolf_Chest
+    21300010: Aardwolf_Pelvis
+    21300012: Aardwolf_ArmFU
+    21300014: Aardwolf_ArmBU
+    21300016: Aardwolf_ArmFL
+    21300018: Aardwolf_ArmBL
+    21300020: Aardwolf_HandF_Fist
+    21300022: Aardwolf_HandB_Fist
+    21300024: Aardwolf_Head_Smile
+    21300026: Aardwolf_Head_Cry
+    21300028: Aardwolf_Head_Angry
+    21300030: Aardwolf_HandF_Spread
+    21300032: Aardwolf_HandB_Spread
+    21300034: Aardwolf_HandF_Side
+    21300036: Aardwolf_HandB_Side
+    21300038: Aardwolf_19
+    21300040: Aardwolf_Head_Sleep
+    21300042: Aardwolf_Head_Down
+    21300044: Aardwolf_Tail
+    21300046: Aardwolf_LegFU
+    21300048: Aardwolf_LegBU
+    21300050: Aardwolf_LegFL
+    21300052: Aardwolf_LegBL
+    21300054: Aardwolf_FootF
+    21300056: Aardwolf_FootF1
+    21300058: Aardwolf_FootB
+    21300060: Aardwolf_FootB1
+    21300062: Aardwolf_Head_Talk
+    21300064: Aardwolf_Tie
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Aardwolf_Head_Normal
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 178
+        width: 80
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_Head_What
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 178
+        width: 80
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_Head_Fear
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 178
+        width: 80
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_BackHair
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 164
+        width: 66
+        height: 91
+      alignment: 9
+      pivot: {x: 0.69, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_Chest
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 167
+        width: 48
+        height: 89
+      alignment: 9
+      pivot: {x: 0.55, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_Pelvis
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 223
+        width: 41
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_ArmFU
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 202
+        width: 17
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_ArmBU
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 202
+        width: 17
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_ArmFL
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 218
+        width: 16
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_ArmBL
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 218
+        width: 16
+        height: 37
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_HandF_Fist
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 199
+        width: 21
+        height: 22
+      alignment: 9
+      pivot: {x: 0.45, y: 0.87}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_HandB_Fist
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 199
+        width: 20
+        height: 22
+      alignment: 9
+      pivot: {x: 0.45, y: 0.88}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_Head_Smile
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 100
+        width: 80
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_Head_Cry
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 100
+        width: 80
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_Head_Angry
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 100
+        width: 80
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_HandF_Spread
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 163
+        width: 29
+        height: 33
+      alignment: 9
+      pivot: {x: 0.35, y: 0.93}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_HandB_Spread
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 164
+        width: 27
+        height: 33
+      alignment: 9
+      pivot: {x: 0.33, y: 0.93}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_HandF_Side
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 173
+        width: 19
+        height: 23
+      alignment: 9
+      pivot: {x: 0.53, y: 0.91}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_HandB_Side
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 168
+        width: 19
+        height: 30
+      alignment: 9
+      pivot: {x: 0.47, y: 0.88}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_Head_Sleep
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 22
+        width: 80
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_Head_Down
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 22
+        width: 80
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_Tail
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 0
+        width: 67
+        height: 140
+      alignment: 9
+      pivot: {x: 0.3, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_LegFU
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 14
+        width: 28
+        height: 69
+      alignment: 9
+      pivot: {x: 0.48, y: 0.88}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_LegBU
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 14
+        width: 28
+        height: 69
+      alignment: 9
+      pivot: {x: 0.48, y: 0.88}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_LegFL
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 5
+        width: 19
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_LegBL
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 5
+        width: 19
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_FootF
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 30
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_FootF1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 30
+        width: 41
+        height: 26
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_FootB
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 2
+        width: 27
+        height: 26
+      alignment: 9
+      pivot: {x: 0.4, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_FootB1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2
+        width: 41
+        height: 26
+      alignment: 9
+      pivot: {x: 0.25, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_Head_Talk
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 22
+        width: 80
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Aardwolf_Tie
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 203
+        width: 16
+        height: 53
+      alignment: 9
+      pivot: {x: 0.38, y: 0.89}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

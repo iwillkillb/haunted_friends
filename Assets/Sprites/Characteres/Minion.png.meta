@@ -1,0 +1,488 @@
+fileFormatVersion: 2
+guid: b279dfadf08b46f4eac70784040c46fd
+timeCreated: 1519379951
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Minion_Head_Normal
+    21300002: Minion_Head_Smile
+    21300004: Minion_Head_Fear
+    21300006: Minion_Head_Angry
+    21300008: Minion_Head_Sleep
+    21300010: Minion_Head_Down
+    21300012: Minion_Neck
+    21300014: Minion_BeretMark
+    21300016: Minion_Beret
+    21300018: Minion_Pelvis
+    21300020: Minion_Chest
+    21300022: Minion_ArmFU
+    21300024: Minion_ArmBU
+    21300026: Minion_LegFU
+    21300028: Minion_LegBU
+    21300030: Minion_ArmFFlesh
+    21300032: Minion_ArmBFlesh
+    21300034: Minion_LegFFlesh
+    21300036: Minion_LegBFlesh
+    21300038: Minion_LegFL
+    21300040: Minion_LegBL
+    21300042: Minion_ArmFL
+    21300044: Minion_ArmBL
+    21300046: Minion_HandF_Spread
+    21300048: Minion_HandF_Fist
+    21300050: Minion_HandF_Grap
+    21300052: Minion_HandF_Good
+    21300054: Minion_HandB_Spread
+    21300056: Minion_HandB_Fist
+    21300058: Minion_HandB_Look
+    21300060: Minion_HandB_Victory
+    21300062: Minion_FootF
+    21300064: Minion_FootB
+    21300066: Minion_FootF1
+    21300068: Minion_FootB1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    textureFormat: -3
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Minion_Head_Normal
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 188
+        width: 68
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_Head_Smile
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 188
+        width: 68
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_Head_Fear
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 188
+        width: 68
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_Head_Angry
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 117
+        width: 68
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_Head_Sleep
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 117
+        width: 68
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_Head_Down
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 117
+        width: 68
+        height: 67
+      alignment: 9
+      pivot: {x: 0.5, y: 0.15}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_BeretMark
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 92
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_Beret
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 75
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_Pelvis
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 79
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_Chest
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 47
+        height: 90
+      alignment: 9
+      pivot: {x: 0.52, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_ArmFU
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 42
+        width: 22
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_ArmBU
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 42
+        width: 22
+        height: 53
+      alignment: 9
+      pivot: {x: 0.5, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_LegFU
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 1
+        width: 33
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_LegBU
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1
+        width: 33
+        height: 71
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_LegFL
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1
+        width: 17
+        height: 71
+      alignment: 9
+      pivot: {x: 0.52, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_LegBL
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 17
+        height: 71
+      alignment: 9
+      pivot: {x: 0.52, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_ArmFL
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3
+        width: 15
+        height: 36
+      alignment: 9
+      pivot: {x: 0.45, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_ArmBL
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 3
+        width: 15
+        height: 36
+      alignment: 9
+      pivot: {x: 0.45, y: 0.95}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_HandF_Spread
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 82
+        width: 32
+        height: 37
+      alignment: 9
+      pivot: {x: 0.45, y: 0.87}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_HandF_Fist
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 90
+        width: 19
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_HandF_Grap
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 90
+        width: 20
+        height: 29
+      alignment: 9
+      pivot: {x: 0.47, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_HandF_Good
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 92
+        width: 28
+        height: 27
+      alignment: 9
+      pivot: {x: 0.33, y: 0.83}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_HandB_Spread
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 42
+        width: 29
+        height: 37
+      alignment: 9
+      pivot: {x: 0.43, y: 0.87}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_HandB_Fist
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 59
+        width: 19
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.85}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_HandB_Look
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 48
+        width: 22
+        height: 39
+      alignment: 9
+      pivot: {x: 0.42, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_HandB_Victory
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 49
+        width: 22
+        height: 38
+      alignment: 9
+      pivot: {x: 0.54, y: 0.87}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_FootF
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1
+        width: 28
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_FootB
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1
+        width: 28
+        height: 35
+      alignment: 9
+      pivot: {x: 0.4, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_FootF1
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Minion_FootB1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1
+        width: 40
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
